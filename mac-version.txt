@@ -1,9 +1,15 @@
-version = 1.6.1
+version = 1.7.0
 date = 2026-11-25
-note = 这里写更新内容（一行一条，每行都要以 note = 开头）
-setup = Gitee | https://gitee.com/Yokky19/r07-update/releases/download/mac-v1.6.1/R07-Mac-v1.6.1.zip
-setup = GitHub | https://github.com/sinyola1314/R07-update/releases/download/mac-v1.6.1/R07-Mac-v1.6.1.zip
-sha256 = 217483c30b60c3f9fef60dff5b1ab22f4f91ebb725bb5fdaf1081adce9e5822f
+note = 照片墙新增便签形状：方形、爱心、星形、圆形，每张也能单独换。
+note = 照片墙每种阵列新增 1 张，张数可以随机。
+note = 照片墙新增便签间隙拉条，可以排得更紧凑。
+note = 照片墙新增手动选多张、随机选多张。
+note = 照片墙新增每日随机照片（零点换）和随机照片排列。
+note = 照片墙右键新增固定这张、现在换一批。
+note = 照片墙新增预设，可以保存和切换。
+
+setup = Gitee | https://gitee.com/Yokky19/r07-update/releases/download/mac-v1.7.0/R07-Mac-v1.7.0.zip
+setup = GitHub | https://github.com/sinyola1314/R07-update/releases/download/mac-v1.7.0/R07-Mac-v1.7.0.zip
+sha256 = 68f9f2bdcd866e7b2783ed612418277aadb0af1ec0a84ad71a6ebff5b531f2ce
 download = Gitee | https://gitee.com/Yokky19/r07-update/releases
 download = GitHub | https://github.com/sinyola1314/R07-update/releases
-# 换电脑转移激活：把旧电脑的机器码写成一行 revoke = XXXX-XXXX-XXXX-XXXX（可以写很多行，删掉就恢复）
