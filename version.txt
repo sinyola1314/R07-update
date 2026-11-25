@@ -1,11 +1,7 @@
-﻿version = 1.2.0
-date = 2026-11-23
-note = 新增：便签功能
-note = 优化：UI 大幅度优化
-note = 新增：设置里增加快捷键页面等
-note = 修复：修复了一些 bug
-setup = Gitee | https://gitee.com/Yokky19/r07-update/releases/download/v1.2.0/R07-Setup-v1.2.0.exe
-setup = GitHub | https://github.com/sinyola1314/R07-update/releases/download/v1.2.0/R07-Setup-v1.2.0.exe
-sha256 = e9b7bd80753f3f5ecd10426773de96af6033f17823608e9b08d56205fce4df50
+﻿version = 1.6.0
+date = 2026-11-25
+setup = Gitee | https://gitee.com/Yokky19/r07-update/releases/download/v1.6.0/R07-Setup-v1.6.0.exe
+setup = GitHub | https://github.com/sinyola1314/R07-update/releases/download/v1.6.0/R07-Setup-v1.6.0.exe
+sha256 = 374a2a87fa6d5b5d490fe1e0cb1f7ebcfbaac6117a96c086b7582913cf165ca0
 download = Gitee | https://gitee.com/Yokky19/r07-update/releases
 download = GitHub | https://github.com/sinyola1314/R07-update/releases
