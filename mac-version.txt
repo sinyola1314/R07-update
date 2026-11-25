@@ -1,0 +1,9 @@
+version = 1.6.1
+date = 2026-11-25
+note = 这里写更新内容（一行一条，每行都要以 note = 开头）
+setup = Gitee | https://gitee.com/Yokky19/r07-update/releases/download/mac-v1.6.1/R07-Mac-v1.6.1.zip
+setup = GitHub | https://github.com/sinyola1314/R07-update/releases/download/mac-v1.6.1/R07-Mac-v1.6.1.zip
+sha256 = 217483c30b60c3f9fef60dff5b1ab22f4f91ebb725bb5fdaf1081adce9e5822f
+download = Gitee | https://gitee.com/Yokky19/r07-update/releases
+download = GitHub | https://github.com/sinyola1314/R07-update/releases
+# 换电脑转移激活：把旧电脑的机器码写成一行 revoke = XXXX-XXXX-XXXX-XXXX（可以写很多行，删掉就恢复）
